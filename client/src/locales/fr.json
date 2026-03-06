@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "lang": "fr",
+    "title": "Loïc Muller — Développeur Web Full-Stack Freelance",
+    "description": "Portfolio de Loïc Muller, développeur web full-stack freelance basé à Lyon."
+  },
+
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Réalisations",
+    "services": "Services",
+    "contact": "Contact",
+    "toggleTheme": "Changer le thème",
+    "toggleLang": "EN"
+  },
+
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Loïc Muller",
+    "title": "Développeur Web Full-Stack Freelance",
+    "tagline": "Je développe, optimise et maintiens vos applications web.",
+    "cta": "Me contacter",
+    "location": "Lyon, France"
+  },
+
+  "about": {
+    "heading": "À propos",
+    "paragraphs": [
+      "Développeur web full-stack basé à Lyon, je me suis formé en autodidacte avant d'intégrer une formation certifiante, puis d'évoluer pendant plus de trois ans au sein d'environnements techniques exigeants.",
+      "J'ai travaillé sur des applications internes, des API REST, des micro-services, des traitements asynchrones et des moteurs de recherche. J'ai aussi repris, refactoré et fait évoluer des applications existantes.",
+      "Mon approche : ne pas me contenter d'exécuter, mais réfléchir en amont à l'architecture et à la maintenabilité. Je préfère passer plus de temps sur la conception pour en gagner sur les tests et la maintenance."
+    ]
+  },
+
+  "skills": {
+    "heading": "Compétences",
+    "categories": [
+      {
+        "name": "Langages",
+        "items": ["TypeScript", "JavaScript", "PHP", "SQL"]
+      },
+      {
+        "name": "Backend",
+        "items": ["NestJS", "Node.js", "Laravel"]
+      },
+      {
+        "name": "Frontend",
+        "items": ["React", "Vue.js"]
+      },
+      {
+        "name": "Bases de données",
+        "items": ["PostgreSQL", "Elasticsearch", "Redis"]
+      },
+      {
+        "name": "DevOps & Outils",
+        "items": ["Docker", "Kubernetes", "CI/CD", "Git", "Linux"]
+      },
+      {
+        "name": "Architecture",
+        "items": [
+          "Clean Architecture",
+          "Hexagonale",
+          "Micro-services",
+          "API REST"
+        ]
+      },
+      {
+        "name": "Messaging & Async",
+        "items": ["RabbitMQ", "Redis", "Workers", "Tâches planifiées"]
+      }
+    ]
+  },
+
+  "projects": {
+    "heading": "Réalisations",
+    "emptyState": "De nouveaux projets arrivent bientôt. Restez connecté.",
+    "statusLabels": {
+      "inProgress": "En cours",
+      "completed": "Terminé"
+    },
+    "items": []
+  },
+
+  "services": {
+    "heading": "Services",
+    "items": [
+      {
+        "title": "Développement d'applications sur mesure",
+        "description": "Conception et développement d'applications web adaptées à vos besoins métier, du backend à l'interface utilisateur."
+      },
+      {
+        "title": "Conception et développement d'API",
+        "description": "API REST robustes, documentées et sécurisées pour alimenter vos applications ou s'intégrer à des services tiers."
+      },
+      {
+        "title": "Maintenance et évolution",
+        "description": "Reprise d'applications existantes, correction de bugs, refactorisation et ajout de nouvelles fonctionnalités."
+      },
+      {
+        "title": "Optimisation et refactorisation",
+        "description": "Amélioration des performances, de la lisibilité du code et de l'architecture pour faciliter la maintenance à long terme."
+      }
+    ]
+  },
+
+  "contact": {
+    "heading": "Contact",
+    "text": "Un projet en tête ou une question ? N'hésitez pas à me contacter.",
+    "email": "contact@loicmuller.dev",
+    "links": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  },
+
+  "footer": {
+    "copyright": "© 2026 Loïc Muller. Tous droits réservés."
+  }
+}
